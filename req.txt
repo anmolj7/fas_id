@@ -1,0 +1,13 @@
+beautifulsoup4==4.8.2
+certifi==2019.11.28
+chardet==3.0.4
+idna==2.8
+kitchen==1.2.6
+lockfile==0.12.2
+munch==2.5.0
+openidc-client==0.6.0
+python-fedora==0.10.0
+requests==2.22.0
+six==1.13.0
+soupsieve==1.9.5
+urllib3==1.25.7
